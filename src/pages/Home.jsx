@@ -3,10 +3,10 @@
 import logo from '../pages/logo.png'
 
 import { Configuration, OpenAIApi } from "openai";
-import Head from "next/head";
+
 
 import { useState } from "react";
-import generate from "../api/generate";
+
 
 export default function Home() {
 
